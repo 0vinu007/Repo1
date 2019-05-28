@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1E17-B5B8
+
+ Directory of C:\Users\sVinod\Desktop\MyProject
+
+05/28/2019  06:02 PM    <DIR>          .
+05/28/2019  06:02 PM    <DIR>          ..
+05/28/2019  05:31 PM               187 Hello.java
+05/28/2019  05:31 PM               410 index.html
+05/28/2019  06:02 PM                 0 text2.txt
+               3 File(s)            597 bytes
+               2 Dir(s)  382,833,270,784 bytes free
